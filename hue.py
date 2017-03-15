@@ -9,8 +9,8 @@ import sys #Accept cli arguments
 from copy import deepcopy # Copy dicts
 
 BRIDGES = {
-  'Tom'  : {'ip': '192.168.1.64', 'uname': 'Bn9mIZRqKwNlxrZMQXziPcmDeCipnDuYrbokMOfS'},
-  'Chris': {'ip': '192.168.1.51', 'uname': 'lQtxve5Dd6fkurmkpDmlpTNfuT8zqbN0-LNYuFfI'},
+  'Bridge1'  : {'ip': '<ip>', 'uname': '<username>'},
+  'Bridge2': {'ip': '<ip>', 'uname': '<username>'},
   }
 
 HUE_RANGE = [0, 65535]
